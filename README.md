@@ -40,5 +40,4 @@ Quantum Nexus is a smart, gesture-activated voice assistant built using Python a
 
 ---
 
-## 📂 Directory Structure
 
