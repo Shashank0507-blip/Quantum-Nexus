@@ -9,12 +9,9 @@ Quantum Nexus is a smart, gesture-activated voice assistant built using Python a
 -  **AI-Powered Intelligence**  
   Integrates with Groq's blazing-fast inference backend to deliver high-quality responses using LLaMA 3.3 70B.
 
--  **Voice Command Recognition**  
-  Automatically listens for commands only after detecting a keyword using `SpeechRecognition`.
-
--  **Gesture-Based Activation**  
-  Assistant is only triggered after detecting a specific user-defined gesture (e.g., hand wave or keyboard shortcut).
-
+-  **Keyboard Input Features**
+  This Code accepts user input from the keyboard, and executes the the following commands given.
+  
 -  **Text-to-Speech Output**  
   Replies are spoken aloud using `pyttsx3`, enabling natural, fluid communication.
 
