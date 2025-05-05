@@ -1,6 +1,6 @@
 # **Quantum Nexus – AI Voice Assistant**
 
-Quantum Nexus is a smart, gesture-activated voice assistant built using Python and powered by state-of-the-art large language models via the Groq API. This assistant provides intelligent, natural language conversations with voice input and output. It is optimized for performance, minimal latency, and modularity, making it perfect for AI developers, hobbyists, and robotics researchers.
+Quantum Nexus is a smart, gesture-activated voice assistant built using Python and powered by state-of-the-art large language models via the Groq API. This assistant provides intelligent, natural language conversations with keyboard input and output. It is optimized for performance, minimal latency, and modularity, making it perfect for AI developers, hobbyists, and robotics researchers.
 
 ---
 
