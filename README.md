@@ -20,13 +20,6 @@ Quantum Nexus is a smart, gesture-activated voice assistant built with Python an
 
 ---
 
-##  Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Shashank0507-blip/Quantum-Nexus.git
-   cd Quantum-Nexus
-
 ##  Technologies Used
 
 | **Component**           | **Library / Tool**   |
